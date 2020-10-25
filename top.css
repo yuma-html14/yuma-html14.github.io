@@ -1,0 +1,45 @@
+body{
+  background-color:#E0FFFF
+}
+
+.top h1{
+  color:blue;
+  font-size:100px;
+  text-align:center;
+}
+
+.photo{
+  text-align:center;
+}
+
+.photo img{
+  width:800px;
+}
+
+.photo p{
+  text-align:center;
+  color:gray;
+}
+
+.page2title{
+  text-align:center;
+  font-size:60px;
+  color:#191970;
+}
+
+.game1{
+  text-align:center;
+}
+
+.game1 img{
+  width:600px
+}
+
+.sentence1{
+  font-size:20px
+}
+
+.sentence2{
+  color:gray;
+  font-size:10px;
+}
